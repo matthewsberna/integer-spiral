@@ -21,3 +21,5 @@ Have a look at the .pdf; those are basically my notes.
 Once I determined the pattern, there's not a lot left to the implementation.  This was still in my early days of Golang, so the code's a bit rough around the edges.
 
 But it gets the job done.  :)
+
+Extending this code into functions to, say, print the value of one element of the array given the element's coordinates, is left as an exercise for the reader.
